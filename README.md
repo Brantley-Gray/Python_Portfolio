@@ -3,7 +3,7 @@ This is the portfolio of the python code I learned during BISC 4503.
 
 
 
-
+# ----------
 ## Using Jupiter Notebooks part 1 and part 2
 
 
@@ -437,3 +437,4 @@ fig.tight_layout()
 
 <img width="987" height="276" alt="output_18_0" src="https://github.com/user-attachments/assets/34e2f305-8598-4c3c-a9de-0f1bdd47ddc9" />
 
+# ----------
